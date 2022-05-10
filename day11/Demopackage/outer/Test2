@@ -1,0 +1,6 @@
+Package inner;
+public class Test2{
+    public void show(){
+        system.out.println(x:"in inner package");
+    }
+}
